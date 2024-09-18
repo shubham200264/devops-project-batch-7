@@ -2,4 +2,10 @@ This is Feature_3
 
 
 
-Writing multiply Feature file to understand Revrt and reset concept on Day06
+Writing multiply Feature file to understand Revrt and reset concept on Day06	
+
+
+
+
+
+New feature addded
